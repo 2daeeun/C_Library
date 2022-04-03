@@ -1,6 +1,6 @@
 # 표준 C 라이브러리
 ***
-### Section 01. 수학 관련 함수
+### [Section 01. 수학 관련 함수](https://github.com/2daeeun/C_Library/blob/master/Section01/Section01.md)
 * abs(), fabs() 함수 : 정수의 절댓값과 실수의 절댓값을 구함
 * ceil(), floor() 함수 : 최소의 정수와 최대의 정수를 구함
 * rand(), srand() 함수 : 난수 발생
